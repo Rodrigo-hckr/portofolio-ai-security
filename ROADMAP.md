@@ -276,6 +276,31 @@ Convertir el conocimiento en producción real.
 | 6–9 | Seguridad IA | Red team report + herramientas |
 | 10–12 | Defensa/MLOps | Proyecto de producción + portafolio |
 
+---
+
+## 🎯 Progress Tracker (Current Cycle)
+
+*Marca las casillas a medida que completas los entregables. ¡Este es mi compromiso público!*
+
+### Fase 0 — Fundamentos (Meses 1–2)
+- [x] Configurar mi portafolio en GitHub (Landing Page y Roadmap)
+- [x] Reescribir script 1 de pentesting con Python moderno (type hints)
+- [ ] Reescribir script 2 de pentesting con Python moderno
+- [ ] Reescribir script 3 de pentesting con Python moderno
+- [ ] Repasar NumPy y Pandas con un dataset de logs
+
+### Fase 1 — Construir IA (Meses 2–5)
+- [ ] Entrenar mi primer modelo de Machine Learning clásico (scikit-learn)
+- [ ] Implementar un Transformer pequeño desde cero en PyTorch
+
+### Fase 2 — Seguridad de IA (En paralelo)
+- [ ] Completar los 7 niveles de Gandalf (Lakera)
+- [ ] Instalar y ejecutar mi primer escaneo con Garak en un modelo local
+
+### Fase 3 — Defensa y Despliegue (Meses 10–12)
+- [ ] Crear un LLM Firewall básico con FastAPI
+
+
 ## 💡 Consejos Finales
 
 1. Documenta todo en un blog o GitHub. El portafolio pesa más que el CV.
