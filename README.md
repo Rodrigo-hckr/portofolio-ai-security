@@ -34,7 +34,7 @@ I document my entire transition from Ethical Hacker to AI Security Engineer. Eve
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**LLM Red Team Lab**](./projects/) | Testing framework for evaluating local LLMs against prompt injection. | Python, Garak, Ollama |
+| [**Async Port Scanner**](./projects/port-scanner/) | Modern Python tool using `asyncio` to scan ports efficiently. Refactored from legacy code. | Python, Asyncio, Networking | 
 | [**AI-Powered Log Analyzer**](./projects/) | Defensive tool using local LLMs to summarize security anomalies. | Python, Pandas, LLM |
 | [**Threat Model ATLAS**](./projects/) | Threat modeling a RAG application using MITRE ATLAS. | Markdown, MITRE ATLAS |
 
